@@ -65,6 +65,7 @@ Consistency beats talent when talent doesn’t show up daily.
 ## Array
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0118-pascals-triangle) |
 ## Dynamic Programming
 |  |
@@ -78,6 +79,7 @@ Consistency beats talent when talent doesn’t show up daily.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -86,4 +88,13 @@ Consistency beats talent when talent doesn’t show up daily.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Hash Table
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
