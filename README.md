@@ -144,4 +144,12 @@ Consistency beats talent when talent doesn’t show up daily.
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
