@@ -69,6 +69,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0118-pascals-triangle) |
 | [0349-intersection-of-two-arrays](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
+| [0654-maximum-binary-tree](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0654-maximum-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -78,6 +79,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0173-binary-search-tree-iterator) |
+| [0654-maximum-binary-tree](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0654-maximum-binary-tree) |
 ## Tree
 |  |
 | ------- |
@@ -89,6 +91,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -110,6 +113,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0700-search-in-a-binary-search-tree) |
 ## Hash Table
 |  |
@@ -120,6 +124,7 @@ Consistency beats talent when talent doesn’t show up daily.
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0654-maximum-binary-tree](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0654-maximum-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -156,4 +161,8 @@ Consistency beats talent when talent doesn’t show up daily.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0021-merge-two-sorted-lists) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
