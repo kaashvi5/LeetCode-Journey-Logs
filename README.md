@@ -71,6 +71,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0118-pascals-triangle](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0118-pascals-triangle) |
 | [0349-intersection-of-two-arrays](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0654-maximum-binary-tree](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0654-maximum-binary-tree) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0717-1-bit-and-2-bit-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
