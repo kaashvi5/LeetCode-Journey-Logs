@@ -76,6 +76,7 @@ Consistency beats talent when talent doesn’t show up daily.
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0118-pascals-triangle) |
+| [1143-longest-common-subsequence](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1143-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -174,4 +175,8 @@ Consistency beats talent when talent doesn’t show up daily.
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0051-n-queens) |
+## String
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
