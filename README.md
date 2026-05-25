@@ -70,12 +70,14 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0118-pascals-triangle) |
 | [0349-intersection-of-two-arrays](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
+| [0542-01-matrix](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0542-01-matrix) |
 | [0654-maximum-binary-tree](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0654-maximum-binary-tree) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0717-1-bit-and-2-bit-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0118-pascals-triangle) |
+| [0542-01-matrix](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0542-01-matrix) |
 | [1143-longest-common-subsequence](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1143-longest-common-subsequence) |
 ## Stack
 |  |
@@ -158,6 +160,7 @@ Consistency beats talent when talent doesn’t show up daily.
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0542-01-matrix](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0542-01-matrix) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Linked List
 |  |
@@ -179,4 +182,8 @@ Consistency beats talent when talent doesn’t show up daily.
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1143-longest-common-subsequence) |
+## Matrix
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
