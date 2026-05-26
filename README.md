@@ -178,6 +178,7 @@ Consistency beats talent when talent doesn’t show up daily.
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0052-n-queens-ii) |
 ## String
 |  |
 | ------- |
