@@ -66,6 +66,7 @@ Consistency beats talent when talent doesn’t show up daily.
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0031-next-permutation) |
 | [0051-n-queens](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0051-n-queens) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0118-pascals-triangle) |
@@ -137,6 +138,7 @@ Consistency beats talent when talent doesn’t show up daily.
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0031-next-permutation) |
 | [0349-intersection-of-two-arrays](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
