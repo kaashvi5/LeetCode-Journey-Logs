@@ -214,4 +214,8 @@ Consistency beats talent when talent doesn’t show up daily.
 | ------- |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+## Database
+|  |
+| ------- |
+| [0608-tree-node](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0608-tree-node) |
 <!---LeetCode Topics End-->
