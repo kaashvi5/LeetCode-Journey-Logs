@@ -58,6 +58,7 @@ Consistency beats talent when talent doesn’t show up daily.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0069-sqrtx) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -86,6 +87,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0118-pascals-triangle](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0118-pascals-triangle) |
 | [0542-01-matrix](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0542-01-matrix) |
 | [1143-longest-common-subsequence](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1143-longest-common-subsequence) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Stack
 |  |
 | ------- |
@@ -221,4 +223,8 @@ Consistency beats talent when talent doesn’t show up daily.
 |  |
 | ------- |
 | [0608-tree-node](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0608-tree-node) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
