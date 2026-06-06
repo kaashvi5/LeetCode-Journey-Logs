@@ -80,6 +80,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0654-maximum-binary-tree](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0654-maximum-binary-tree) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0717-1-bit-and-2-bit-characters) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2574-left-and-right-sum-differences](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2574-left-and-right-sum-differences) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Dynamic Programming
 |  |
@@ -232,4 +233,8 @@ Consistency beats talent when talent doesn’t show up daily.
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
