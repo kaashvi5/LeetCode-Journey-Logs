@@ -86,6 +86,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [2574-left-and-right-sum-differences](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2574-left-and-right-sum-differences) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -243,6 +244,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Database
 |  |
 | ------- |
@@ -259,4 +261,12 @@ Consistency beats talent when talent doesn’t show up daily.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
+## Segment Tree
+|  |
+| ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3691-maximum-total-subarray-value-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3691-maximum-total-subarray-value-ii) |
 <!---LeetCode Topics End-->
