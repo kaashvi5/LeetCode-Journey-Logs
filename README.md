@@ -57,6 +57,7 @@ Consistency beats talent when talent doesn’t show up daily.
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0069-sqrtx) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
