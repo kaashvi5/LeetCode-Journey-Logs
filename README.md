@@ -75,6 +75,7 @@ Consistency beats talent when talent doesn’t show up daily.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0036-valid-sudoku) |
 | [0051-n-queens](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0051-n-queens) |
@@ -182,6 +183,7 @@ Consistency beats talent when talent doesn’t show up daily.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0031-next-permutation) |
 | [0349-intersection-of-two-arrays](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -265,6 +267,7 @@ Consistency beats talent when talent doesn’t show up daily.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0011-container-with-most-water) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3689-maximum-total-subarray-value-i) |
