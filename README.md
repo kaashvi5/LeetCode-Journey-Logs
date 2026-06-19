@@ -86,6 +86,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0542-01-matrix](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0542-01-matrix) |
 | [0654-maximum-binary-tree](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0654-maximum-binary-tree) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0717-1-bit-and-2-bit-characters) |
+| [1732-find-the-highest-altitude](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1732-find-the-highest-altitude) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2574-left-and-right-sum-differences) |
@@ -284,6 +285,7 @@ Consistency beats talent when talent doesn’t show up daily.
 ## Prefix Sum
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2574-left-and-right-sum-differences) |
 ## Sliding Window
 |  |
