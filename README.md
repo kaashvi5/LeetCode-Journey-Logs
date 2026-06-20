@@ -60,6 +60,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0007-reverse-integer](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0069-sqrtx) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1840-maximum-building-height](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1840-maximum-building-height) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -87,6 +88,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0654-maximum-binary-tree](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0654-maximum-binary-tree) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1732-find-the-highest-altitude](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1732-find-the-highest-altitude) |
+| [1840-maximum-building-height](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1840-maximum-building-height) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2574-left-and-right-sum-differences) |
@@ -194,6 +196,7 @@ Consistency beats talent when talent doesn’t show up daily.
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
+| [1840-maximum-building-height](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1840-maximum-building-height) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search Tree
