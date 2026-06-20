@@ -58,6 +58,7 @@ Consistency beats talent when talent doesn’t show up daily.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0069-sqrtx) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1840-maximum-building-height) |
@@ -173,6 +174,7 @@ Consistency beats talent when talent doesn’t show up daily.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0036-valid-sudoku) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0349-intersection-of-two-arrays](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
@@ -253,6 +255,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0006-zigzag-conversion](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0022-generate-parentheses) |
 | [0093-restore-ip-addresses](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0115-distinct-subsequences) |
