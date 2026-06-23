@@ -79,6 +79,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0036-valid-sudoku) |
 | [0051-n-queens](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0051-n-queens) |
@@ -193,6 +194,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0031-next-permutation) |
 | [0349-intersection-of-two-arrays](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -200,6 +202,7 @@ Consistency beats talent when talent doesn’t show up daily.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0015-3sum) |
 | [0349-intersection-of-two-arrays](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 | [1833-maximum-ice-cream-bars](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1840-maximum-building-height) |
