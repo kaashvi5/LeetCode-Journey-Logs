@@ -110,6 +110,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0542-01-matrix](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0542-01-matrix) |
 | [1143-longest-common-subsequence](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1143-longest-common-subsequence) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Stack
@@ -298,6 +299,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2574-left-and-right-sum-differences) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Sliding Window
 |  |
 | ------- |
