@@ -101,6 +101,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
@@ -186,12 +187,14 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0349-intersection-of-two-arrays](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 | [1189-maximum-number-of-balloons](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1189-maximum-number-of-balloons) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0654-maximum-binary-tree) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -308,6 +311,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [1732-find-the-highest-altitude](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2574-left-and-right-sum-differences) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -316,6 +320,7 @@ Consistency beats talent when talent doesn’t show up daily.
 |  |
 | ------- |
 | [3691-maximum-total-subarray-value-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -330,4 +335,9 @@ Consistency beats talent when talent doesn’t show up daily.
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1833-maximum-ice-cream-bars) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
