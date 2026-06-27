@@ -210,6 +210,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0015-3sum](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0031-next-permutation) |
 | [0349-intersection-of-two-arrays](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -251,6 +252,7 @@ Consistency beats talent when talent doesn’t show up daily.
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0021-merge-two-sorted-lists) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
