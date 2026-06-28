@@ -199,6 +199,7 @@ Consistency beats talent when talent doesn’t show up daily.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0654-maximum-binary-tree) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -256,6 +257,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0023-merge-k-sorted-lists) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -343,6 +345,7 @@ Consistency beats talent when talent doesn’t show up daily.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0023-merge-k-sorted-lists) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Simulation
 |  |
@@ -358,6 +361,7 @@ Consistency beats talent when talent doesn’t show up daily.
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0023-merge-k-sorted-lists) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
