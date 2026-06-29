@@ -216,6 +216,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0031-next-permutation) |
 | [0349-intersection-of-two-arrays](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
@@ -262,6 +263,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0024-swap-nodes-in-pairs](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0024-swap-nodes-in-pairs) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
