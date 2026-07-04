@@ -84,6 +84,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0015-3sum](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0036-valid-sudoku) |
 | [0051-n-queens](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0051-n-queens) |
@@ -220,6 +221,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0016-3sum-closest](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0031-next-permutation) |
 | [0349-intersection-of-two-arrays](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
