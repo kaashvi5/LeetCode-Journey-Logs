@@ -123,6 +123,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0005-longest-palindromic-substring](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0118-pascals-triangle) |
 | [0542-01-matrix](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0542-01-matrix) |
@@ -137,6 +138,7 @@ Consistency beats talent when talent doesn’t show up daily.
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0173-binary-search-tree-iterator) |
 | [0654-maximum-binary-tree](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0654-maximum-binary-tree) |
@@ -315,6 +317,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0032-longest-valid-parentheses) |
 | [0093-restore-ip-addresses](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0115-distinct-subsequences) |
 | [1143-longest-common-subsequence](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1143-longest-common-subsequence) |
