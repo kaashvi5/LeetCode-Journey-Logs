@@ -321,6 +321,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0022-generate-parentheses](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0038-count-and-say) |
 | [0093-restore-ip-addresses](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0115-distinct-subsequences) |
 | [1143-longest-common-subsequence](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1143-longest-common-subsequence) |
