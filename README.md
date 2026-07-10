@@ -77,6 +77,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0069-sqrtx](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Array
@@ -110,6 +111,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [2574-left-and-right-sum-differences](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2574-left-and-right-sum-differences) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -130,6 +132,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0542-01-matrix](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0542-01-matrix) |
 | [1143-longest-common-subsequence](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1301-number-of-paths-with-max-score) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -237,6 +240,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0349-intersection-of-two-arrays](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
 |  |
@@ -250,6 +254,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [1840-maximum-building-height](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search Tree
 |  |
@@ -345,6 +350,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | ------- |
 | [0029-divide-two-integers](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0029-divide-two-integers) |
 | [0222-count-complete-tree-nodes](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0222-count-complete-tree-nodes) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Greedy
 |  |
@@ -353,6 +359,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [1833-maximum-ice-cream-bars](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -416,6 +423,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
