@@ -60,6 +60,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0007-reverse-integer](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0069-sqrtx) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1840-maximum-building-height) |
@@ -308,6 +309,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0021-merge-two-sorted-lists](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0050-powx-n) |
 ## Monotonic Stack
 |  |
 | ------- |
