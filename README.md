@@ -64,6 +64,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0069-sqrtx](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0069-sqrtx) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1840-maximum-building-height) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -115,6 +116,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [2574-left-and-right-sum-differences](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2574-left-and-right-sum-differences) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3620-network-recovery-pathways) |
@@ -136,6 +138,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0542-01-matrix](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0542-01-matrix) |
 | [1143-longest-common-subsequence](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1301-number-of-paths-with-max-score) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3620-network-recovery-pathways) |
@@ -453,4 +456,8 @@ Consistency beats talent when talent doesn’t show up daily.
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2685-count-the-number-of-complete-components) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
