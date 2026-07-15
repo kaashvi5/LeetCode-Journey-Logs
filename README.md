@@ -97,6 +97,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0037-sudoku-solver](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0051-n-queens) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -135,6 +136,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0010-regular-expression-matching](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0118-pascals-triangle) |
 | [0542-01-matrix](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0542-01-matrix) |
@@ -152,6 +154,7 @@ Consistency beats talent when talent doesn’t show up daily.
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0173-binary-search-tree-iterator) |
 | [0654-maximum-binary-tree](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0654-maximum-binary-tree) |
@@ -249,6 +252,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0042-trapping-rain-water) |
 | [0349-intersection-of-two-arrays](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -319,6 +323,7 @@ Consistency beats talent when talent doesn’t show up daily.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0042-trapping-rain-water) |
 | [0654-maximum-binary-tree](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0654-maximum-binary-tree) |
 ## Backtracking
 |  |
