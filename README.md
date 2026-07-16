@@ -60,6 +60,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0007-reverse-integer](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0069-sqrtx) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -350,6 +351,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0030-substring-with-concatenation-of-all-words](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0043-multiply-strings) |
 | [0093-restore-ip-addresses](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0115-distinct-subsequences) |
 | [1143-longest-common-subsequence](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1143-longest-common-subsequence) |
@@ -427,6 +429,7 @@ Consistency beats talent when talent doesn’t show up daily.
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0043-multiply-strings) |
 | [3612-process-string-with-special-operations-i](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3838-weighted-word-mapping) |
