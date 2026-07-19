@@ -3,7 +3,7 @@ This repository contains my solutions to LeetCode problems, focusing on clean co
 
 ## 📌 About
 - 💻 Language: Java
-- 🧠 Focus: Data Structures & Algorithms
+- 🧠 Focus: Data Structures & Algorithms(DSA)
 - 📈 Goal: Strengthen problem-solving skills and crack top tech interviews
 - 🔥 Practice Style: Daily consistency over random bursts
 
