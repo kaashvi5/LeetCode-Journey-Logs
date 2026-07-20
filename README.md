@@ -110,6 +110,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0542-01-matrix](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0542-01-matrix) |
 | [0654-maximum-binary-tree](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0654-maximum-binary-tree) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0717-1-bit-and-2-bit-characters) |
+| [1260-shift-2d-grid](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1331-rank-transform-of-an-array) |
@@ -379,6 +380,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0036-valid-sudoku](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0037-sudoku-solver) |
 | [0542-01-matrix](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0542-01-matrix) |
+| [1260-shift-2d-grid](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Bit Manipulation
@@ -443,6 +445,7 @@ Consistency beats talent when talent doesn’t show up daily.
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0043-multiply-strings) |
+| [1260-shift-2d-grid](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1260-shift-2d-grid) |
 | [3612-process-string-with-special-operations-i](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3838-weighted-word-mapping) |
