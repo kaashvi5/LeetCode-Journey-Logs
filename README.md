@@ -64,6 +64,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0043-multiply-strings](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0069-sqrtx) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1840-maximum-building-height) |
@@ -152,6 +153,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0042-trapping-rain-water](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0045-jump-game-ii) |
+| [0062-unique-paths](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0062-unique-paths) |
 | [0115-distinct-subsequences](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0118-pascals-triangle) |
 | [0542-01-matrix](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0542-01-matrix) |
@@ -505,4 +507,8 @@ Consistency beats talent when talent doesn’t show up daily.
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
