@@ -65,6 +65,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0050-powx-n](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -388,6 +389,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0043-multiply-strings](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0067-add-binary) |
 | [0093-restore-ip-addresses](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0115-distinct-subsequences) |
 | [1143-longest-common-subsequence](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1143-longest-common-subsequence) |
@@ -415,6 +417,7 @@ Consistency beats talent when talent doesn’t show up daily.
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0222-count-complete-tree-nodes) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -479,6 +482,7 @@ Consistency beats talent when talent doesn’t show up daily.
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0067-add-binary) |
 | [1260-shift-2d-grid](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1260-shift-2d-grid) |
 | [3612-process-string-with-special-operations-i](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3614-process-string-with-special-operations-ii) |
