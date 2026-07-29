@@ -115,6 +115,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0047-permutations-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0063-unique-paths-ii) |
+| [0068-text-justification](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0068-text-justification) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0118-pascals-triangle) |
 | [0349-intersection-of-two-arrays](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
@@ -392,6 +393,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0044-wildcard-matching](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0068-text-justification) |
 | [0093-restore-ip-addresses](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0115-distinct-subsequences) |
 | [1143-longest-common-subsequence](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1143-longest-common-subsequence) |
@@ -486,6 +488,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | ------- |
 | [0043-multiply-strings](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0068-text-justification) |
 | [1260-shift-2d-grid](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1260-shift-2d-grid) |
 | [3612-process-string-with-special-operations-i](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3614-process-string-with-special-operations-ii) |
