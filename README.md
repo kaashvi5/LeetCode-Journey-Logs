@@ -67,6 +67,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0062-unique-paths](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1840-maximum-building-height) |
@@ -166,6 +167,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0045-jump-game-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0118-pascals-triangle) |
 | [0542-01-matrix](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0542-01-matrix) |
@@ -545,4 +547,8 @@ Consistency beats talent when talent doesn’t show up daily.
 | ------- |
 | [0062-unique-paths](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0062-unique-paths) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
