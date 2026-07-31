@@ -186,6 +186,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0173-binary-search-tree-iterator) |
 | [0654-maximum-binary-tree](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0654-maximum-binary-tree) |
@@ -399,6 +400,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0065-valid-number](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0071-simplify-path) |
 | [0093-restore-ip-addresses](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0115-distinct-subsequences) |
 | [1143-longest-common-subsequence](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1143-longest-common-subsequence) |
