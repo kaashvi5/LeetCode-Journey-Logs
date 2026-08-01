@@ -68,6 +68,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0067-add-binary](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0070-climbing-stairs) |
+| [0486-predict-the-winner](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1840-maximum-building-height) |
@@ -121,6 +122,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0118-pascals-triangle) |
 | [0349-intersection-of-two-arrays](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
+| [0486-predict-the-winner](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0628-maximum-product-of-three-numbers) |
 | [0654-maximum-binary-tree](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0654-maximum-binary-tree) |
@@ -170,6 +172,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0070-climbing-stairs](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0118-pascals-triangle) |
+| [0486-predict-the-winner](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0542-01-matrix) |
 | [1143-longest-common-subsequence](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1301-number-of-paths-with-max-score) |
@@ -365,6 +368,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0044-wildcard-matching](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0060-permutation-sequence) |
+| [0486-predict-the-winner](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0486-predict-the-winner) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -558,4 +562,8 @@ Consistency beats talent when talent doesn’t show up daily.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0070-climbing-stairs) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
