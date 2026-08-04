@@ -120,6 +120,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0051-n-queens](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0063-unique-paths-ii) |
 | [0068-text-justification](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0068-text-justification) |
+| [0079-word-search](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0118-pascals-triangle) |
 | [0349-intersection-of-two-arrays](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
@@ -222,6 +223,7 @@ Consistency beats talent when talent doesn’t show up daily.
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -392,6 +394,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0051-n-queens](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0093-restore-ip-addresses) |
 ## String
 |  |
@@ -414,6 +417,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0068-text-justification](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0115-distinct-subsequences) |
 | [1143-longest-common-subsequence](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1143-longest-common-subsequence) |
@@ -436,6 +440,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0036-valid-sudoku](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0079-word-search) |
 | [0542-01-matrix](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0542-01-matrix) |
 | [1260-shift-2d-grid](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1301-number-of-paths-with-max-score) |
