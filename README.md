@@ -126,6 +126,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0068-text-justification](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0118-pascals-triangle) |
 | [0349-intersection-of-two-arrays](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
@@ -204,6 +205,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0032-longest-valid-parentheses](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0173-binary-search-tree-iterator) |
 | [0654-maximum-binary-tree](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0654-maximum-binary-tree) |
@@ -396,6 +398,7 @@ Consistency beats talent when talent doesn’t show up daily.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0084-largest-rectangle-in-histogram) |
 | [0654-maximum-binary-tree](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0654-maximum-binary-tree) |
 ## Backtracking
 |  |
@@ -615,4 +618,8 @@ Consistency beats talent when talent doesn’t show up daily.
 | ------- |
 | [1140-stone-game-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1406-stone-game-iii) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
