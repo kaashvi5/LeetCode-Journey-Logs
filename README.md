@@ -313,6 +313,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0042-trapping-rain-water](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0086-partition-list) |
 | [0349-intersection-of-two-arrays](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -381,6 +382,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0061-rotate-list](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0086-partition-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
