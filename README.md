@@ -184,6 +184,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0063-unique-paths-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0072-edit-distance) |
+| [0087-scramble-string](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0118-pascals-triangle) |
 | [0486-predict-the-winner](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0486-predict-the-winner) |
@@ -443,6 +444,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0071-simplify-path](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0087-scramble-string) |
 | [0093-restore-ip-addresses](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0115-distinct-subsequences) |
 | [1143-longest-common-subsequence](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1143-longest-common-subsequence) |
