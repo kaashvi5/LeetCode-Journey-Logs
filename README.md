@@ -68,6 +68,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0067-add-binary](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0089-gray-code) |
 | [0486-predict-the-winner](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1140-stone-game-ii) |
@@ -422,6 +423,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0052-n-queens-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0093-restore-ip-addresses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
@@ -481,6 +483,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | ------- |
 | [0029-divide-two-integers](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0089-gray-code) |
 | [0222-count-complete-tree-nodes](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0222-count-complete-tree-nodes) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/3514-number-of-unique-xor-triplets-ii) |
