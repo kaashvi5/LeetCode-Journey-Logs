@@ -152,6 +152,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2574-left-and-right-sum-differences) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -286,6 +287,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [1331-rank-transform-of-an-array](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -530,6 +532,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0003-longest-substring-without-repeating-characters](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Segment Tree
 |  |
 | ------- |
