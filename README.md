@@ -152,6 +152,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2574-left-and-right-sum-differences](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2574-left-and-right-sum-differences) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -455,6 +456,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [1189-maximum-number-of-balloons](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -539,6 +541,7 @@ Consistency beats talent when talent doesn’t show up daily.
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -648,4 +651,8 @@ Consistency beats talent when talent doesn’t show up daily.
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1510-stone-game-iv) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
