@@ -136,6 +136,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0118-pascals-triangle](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0120-triangle) |
 | [0349-intersection-of-two-arrays](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0628-maximum-product-of-three-numbers) |
@@ -333,6 +334,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0086-partition-list) |
 | [0349-intersection-of-two-arrays](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0455-assign-cookies) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -347,6 +349,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0018-4sum](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0047-permutations-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1331-rank-transform-of-an-array) |
@@ -514,6 +517,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0011-container-with-most-water](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0045-jump-game-ii) |
+| [0455-assign-cookies](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0455-assign-cookies) |
 | [1833-maximum-ice-cream-bars](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2029-stone-game-ix](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/2029-stone-game-ix) |
@@ -680,4 +684,8 @@ Consistency beats talent when talent doesn’t show up daily.
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
