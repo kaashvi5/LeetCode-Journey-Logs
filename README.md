@@ -151,6 +151,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [1288-remove-covered-intervals](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1563-stone-game-v) |
@@ -305,6 +306,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [1189-maximum-number-of-balloons](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1386-cinema-seat-allocation) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -514,6 +516,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0089-gray-code](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0222-count-complete-tree-nodes) |
+| [1386-cinema-seat-allocation](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -530,6 +533,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0561-array-partition](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0860-lemonade-change) |
+| [1386-cinema-seat-allocation](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1386-cinema-seat-allocation) |
 | [1833-maximum-ice-cream-bars](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2029-stone-game-ix](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/2029-stone-game-ix) |
