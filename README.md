@@ -210,6 +210,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0120-triangle](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0486-predict-the-winner](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0542-01-matrix) |
 | [1140-stone-game-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1140-stone-game-ii) |
@@ -247,6 +248,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -267,6 +269,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0104-maximum-depth-of-binary-tree](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0563-binary-tree-tilt) |
@@ -285,6 +288,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -709,4 +713,8 @@ Consistency beats talent when talent doesn’t show up daily.
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0455-assign-cookies) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
