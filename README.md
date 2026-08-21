@@ -312,6 +312,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0037-sudoku-solver](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0126-word-ladder-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0126-word-ladder-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 | [1189-maximum-number-of-balloons](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1331-rank-transform-of-an-array) |
@@ -407,6 +408,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0104-maximum-depth-of-binary-tree](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0126-word-ladder-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0126-word-ladder-ii) |
 | [0542-01-matrix](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0542-01-matrix) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -462,6 +464,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0089-gray-code](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0093-restore-ip-addresses) |
+| [0126-word-ladder-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0126-word-ladder-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
 |  |
@@ -489,6 +492,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0091-decode-ways](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0115-distinct-subsequences) |
+| [0126-word-ladder-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0126-word-ladder-ii) |
 | [1143-longest-common-subsequence](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -723,4 +727,8 @@ Consistency beats talent when talent doesn’t show up daily.
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0124-binary-tree-maximum-path-sum) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->
