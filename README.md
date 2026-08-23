@@ -140,6 +140,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0120-triangle](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0128-longest-consecutive-sequence) |
 | [0349-intersection-of-two-arrays](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0486-predict-the-winner) |
@@ -315,6 +316,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0128-longest-consecutive-sequence) |
 | [0349-intersection-of-two-arrays](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 | [1189-maximum-number-of-balloons](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1331-rank-transform-of-an-array) |
@@ -662,6 +664,7 @@ Consistency beats talent when talent doesn’t show up daily.
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0128-longest-consecutive-sequence) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2685-count-the-number-of-complete-components) |
 ## Number Theory
