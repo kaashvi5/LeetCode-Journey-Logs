@@ -218,6 +218,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0132-palindrome-partitioning-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0132-palindrome-partitioning-ii) |
 | [0486-predict-the-winner](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0542-01-matrix) |
 | [1140-stone-game-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1140-stone-game-ii) |
@@ -502,6 +503,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0115-distinct-subsequences](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0127-word-ladder) |
+| [0132-palindrome-partitioning-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0132-palindrome-partitioning-ii) |
 | [1143-longest-common-subsequence](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
