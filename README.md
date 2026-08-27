@@ -142,6 +142,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0135-candy) |
 | [0349-intersection-of-two-arrays](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0455-assign-cookies) |
@@ -283,6 +284,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0130-surrounded-regions) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0563-binary-tree-tilt) |
@@ -424,6 +426,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0126-word-ladder-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0127-word-ladder) |
+| [0130-surrounded-regions](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0542-01-matrix) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -536,6 +539,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0037-sudoku-solver](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0079-word-search) |
+| [0130-surrounded-regions](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0542-01-matrix) |
 | [1260-shift-2d-grid](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1301-number-of-paths-with-max-score) |
@@ -680,6 +684,7 @@ Consistency beats talent when talent doesn’t show up daily.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0130-surrounded-regions) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2685-count-the-number-of-complete-components) |
 ## Number Theory
