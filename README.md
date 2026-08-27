@@ -342,6 +342,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -530,6 +531,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3614-process-string-with-special-operations-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3838-weighted-word-mapping](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3838-weighted-word-mapping) |
 ## Matrix
@@ -584,6 +586,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Database
 |  |
 | ------- |
@@ -596,6 +599,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [3345-smallest-divisible-digit-product-i](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Prefix Sum
 |  |
@@ -655,6 +659,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
