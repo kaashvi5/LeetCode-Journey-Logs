@@ -175,6 +175,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [2196-create-binary-tree-from-descriptions](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2574-left-and-right-sum-differences](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2574-left-and-right-sum-differences) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -398,6 +399,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [1840-maximum-building-height](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -698,6 +700,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0130-surrounded-regions](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0130-surrounded-regions) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2685-count-the-number-of-complete-components) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Number Theory
 |  |
 | ------- |
