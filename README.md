@@ -143,6 +143,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0130-surrounded-regions) |
+| [0134-gas-station](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0135-candy) |
 | [0349-intersection-of-two-arrays](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0455-assign-cookies) |
@@ -579,6 +580,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0044-wildcard-matching](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0134-gas-station](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0561-array-partition) |
