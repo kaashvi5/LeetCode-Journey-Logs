@@ -458,6 +458,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0092-reverse-linked-list-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0092-reverse-linked-list-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
