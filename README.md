@@ -78,6 +78,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [1563-stone-game-v](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1563-stone-game-v) |
 | [1840-maximum-building-height](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1840-maximum-building-height) |
 | [1872-stone-game-viii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1872-stone-game-viii) |
+| [1922-count-good-numbers](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -472,6 +473,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0050-powx-n](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0060-permutation-sequence) |
 | [0486-predict-the-winner](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0486-predict-the-winner) |
+| [1922-count-good-numbers](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1922-count-good-numbers) |
 ## Monotonic Stack
 |  |
 | ------- |
