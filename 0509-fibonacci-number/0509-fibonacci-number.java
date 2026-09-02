@@ -10,6 +10,7 @@ class Solution {
             c=a+b;
             a=b;
             b=c;
+           // c=a;
         }
         return b;
     }
