@@ -70,6 +70,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0070-climbing-stairs](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0089-gray-code) |
 | [0486-predict-the-winner](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -232,6 +233,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0131-palindrome-partitioning](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0132-palindrome-partitioning-ii) |
 | [0486-predict-the-winner](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0542-01-matrix) |
 | [1140-stone-game-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1143-longest-common-subsequence) |
@@ -481,6 +483,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0050-powx-n](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0060-permutation-sequence) |
 | [0486-predict-the-winner](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1922-count-good-numbers) |
 ## Monotonic Stack
 |  |
@@ -742,6 +745,7 @@ Consistency beats talent when talent doesn’t show up daily.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0509-fibonacci-number) |
 ## Game Theory
 |  |
 | ------- |
