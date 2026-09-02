@@ -1,16 +1,19 @@
 class Solution {
     public int climbStairs(int n) {
-        if (n <= 2) return n;
-        
-        int a = 1; // ways to reach step 1
-        int b = 2; // ways to reach step 2
-        
-        for (int i = 3; i <= n; i++) {
-            int c = b + a;
-            a = b;
-            b = c;
+        int[] dp=new int[n+1];
+        for(int i=0;i<=n;i++){
+            dp[i]=-1;
         }
-        
-        return b;
+        return combi(n,dp);
+    }
+    private int combi(int n,int[] dp){
+        if(n<=2){
+            return n;
+        }
+        if(dp[n]!=-1){
+            return dp[n];
+        }
+        dp[n]=combi(n-1,dp)+combi(n-2,dp);
+        return dp[n];
     }
 }
