@@ -149,6 +149,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0134-gas-station](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0139-word-break) |
 | [0349-intersection-of-two-arrays](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0486-predict-the-winner) |
@@ -232,6 +233,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0124-binary-tree-maximum-path-sum](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0139-word-break) |
 | [0486-predict-the-winner](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0542-01-matrix) |
@@ -342,6 +344,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0128-longest-consecutive-sequence](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0139-word-break) |
 | [0349-intersection-of-two-arrays](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 | [1189-maximum-number-of-balloons](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1331-rank-transform-of-an-array) |
@@ -539,6 +542,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0127-word-ladder](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0139-word-break) |
 | [1143-longest-common-subsequence](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -745,6 +749,7 @@ Consistency beats talent when talent doesn’t show up daily.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0509-fibonacci-number) |
 ## Game Theory
 |  |
@@ -802,4 +807,12 @@ Consistency beats talent when talent doesn’t show up daily.
 | ------- |
 | [0126-word-ladder-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0127-word-ladder) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
