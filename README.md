@@ -135,6 +135,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0051-n-queens](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0063-unique-paths-ii) |
 | [0068-text-justification](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0068-text-justification) |
+| [0078-subsets](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0084-largest-rectangle-in-histogram) |
@@ -516,6 +517,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0051-n-queens](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0090-subsets-ii) |
@@ -595,6 +597,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | ------- |
 | [0029-divide-two-integers](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0137-single-number-ii) |
