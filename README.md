@@ -267,6 +267,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0071-simplify-path](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0143-reorder-list) |
 | [0173-binary-search-tree-iterator](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0173-binary-search-tree-iterator) |
 | [0654-maximum-binary-tree](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0654-maximum-binary-tree) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -399,6 +400,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0086-partition-list](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0143-reorder-list) |
 | [0349-intersection-of-two-arrays](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0455-assign-cookies) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -485,6 +487,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0138-copy-list-with-random-pointer](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0143-reorder-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -498,6 +501,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0044-wildcard-matching](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0060-permutation-sequence) |
+| [0143-reorder-list](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0143-reorder-list) |
 | [0486-predict-the-winner](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1922-count-good-numbers) |
