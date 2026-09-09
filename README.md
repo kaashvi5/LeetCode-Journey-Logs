@@ -356,6 +356,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0140-word-break-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0146-lru-cache) |
 | [0349-intersection-of-two-arrays](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 | [1189-maximum-number-of-balloons](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1331-rank-transform-of-an-array) |
@@ -448,6 +449,7 @@ Consistency beats talent when talent doesn’t show up daily.
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0173-binary-search-tree-iterator) |
 ## Iterator
 |  |
@@ -489,6 +491,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0141-linked-list-cycle](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0146-lru-cache) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -846,4 +849,8 @@ Consistency beats talent when talent doesn’t show up daily.
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0142-linked-list-cycle-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
