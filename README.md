@@ -292,6 +292,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0654-maximum-binary-tree](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0700-search-in-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
@@ -311,6 +312,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0543-diameter-of-binary-tree](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0563-binary-tree-tilt) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0637-average-of-levels-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/3310-remove-methods-from-project) |
@@ -336,6 +338,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0654-maximum-binary-tree](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0700-search-in-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Hash Table
 |  |
 | ------- |
