@@ -422,6 +422,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0016-3sum-closest](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0047-permutations-ii) |
+| [0147-insertion-sort-list](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0147-insertion-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0561-array-partition) |
@@ -495,6 +496,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0142-linked-list-cycle-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0146-lru-cache) |
+| [0147-insertion-sort-list](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0147-insertion-sort-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
