@@ -387,6 +387,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0004-median-of-two-sorted-arrays](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0148-sort-list](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0148-sort-list) |
 | [0654-maximum-binary-tree](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0654-maximum-binary-tree) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -408,6 +409,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0141-linked-list-cycle](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0148-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0455-assign-cookies) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -425,6 +427,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0018-4sum](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0047-permutations-ii) |
 | [0147-insertion-sort-list](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0148-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0561-array-partition) |
@@ -499,6 +502,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0143-reorder-list](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0148-sort-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -737,6 +741,7 @@ Consistency beats talent when talent doesn’t show up daily.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Graph Theory
