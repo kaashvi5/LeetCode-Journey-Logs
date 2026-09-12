@@ -69,6 +69,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0069-sqrtx](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0089-gray-code) |
+| [0149-max-points-on-a-line](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0149-max-points-on-a-line) |
 | [0486-predict-the-winner](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0628-maximum-product-of-three-numbers) |
@@ -155,6 +156,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0137-single-number-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0149-max-points-on-a-line) |
 | [0349-intersection-of-two-arrays](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0486-predict-the-winner) |
@@ -364,6 +366,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0141-linked-list-cycle](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0149-max-points-on-a-line) |
 | [0349-intersection-of-two-arrays](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 | [1189-maximum-number-of-balloons](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1331-rank-transform-of-an-array) |
@@ -871,4 +874,16 @@ Consistency beats talent when talent doesn’t show up daily.
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0146-lru-cache) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
