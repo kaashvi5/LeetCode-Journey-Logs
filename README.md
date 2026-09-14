@@ -73,6 +73,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0486-predict-the-winner](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1406-stone-game-iii) |
@@ -878,6 +879,7 @@ Consistency beats talent when talent doesn’t show up daily.
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0149-max-points-on-a-line) |
+| [0836-rectangle-overlap](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0836-rectangle-overlap) |
 ## Euclidean Algorithm
 |  |
 | ------- |
