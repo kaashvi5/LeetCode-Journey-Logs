@@ -290,6 +290,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0143-reorder-list](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0143-reorder-list) |
 | [0173-binary-search-tree-iterator](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0173-binary-search-tree-iterator) |
 | [0654-maximum-binary-tree](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0654-maximum-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1096-brace-expansion-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Tree
 |  |
@@ -382,6 +383,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0149-max-points-on-a-line](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0166-fraction-to-recurring-decimal) |
 | [0349-intersection-of-two-arrays](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
+| [1096-brace-expansion-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -455,6 +457,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0455-assign-cookies](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -500,6 +503,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0133-clone-graph](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0133-clone-graph) |
 | [0542-01-matrix](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0542-01-matrix) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -570,6 +574,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0126-word-ladder-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0140-word-break-ii) |
+| [1096-brace-expansion-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
 |  |
@@ -604,6 +609,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0139-word-break](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0140-word-break-ii) |
 | [0166-fraction-to-recurring-decimal](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0166-fraction-to-recurring-decimal) |
+| [1096-brace-expansion-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
