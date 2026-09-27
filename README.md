@@ -73,6 +73,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0166-fraction-to-recurring-decimal](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0171-excel-sheet-column-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0172-factorial-trailing-zeroes) |
 | [0486-predict-the-winner](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0628-maximum-product-of-three-numbers) |
