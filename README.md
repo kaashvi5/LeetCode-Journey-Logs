@@ -294,6 +294,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0173-binary-search-tree-iterator](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0173-binary-search-tree-iterator) |
 | [0654-maximum-binary-tree](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0654-maximum-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Tree
 |  |
@@ -618,6 +619,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [1096-brace-expansion-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -923,4 +925,8 @@ Consistency beats talent when talent doesn’t show up daily.
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0149-max-points-on-a-line) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
