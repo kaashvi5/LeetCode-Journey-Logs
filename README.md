@@ -932,5 +932,6 @@ Consistency beats talent when talent doesn’t show up daily.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
