@@ -265,6 +265,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0486-predict-the-winner](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0678-valid-parenthesis-string) |
 | [1140-stone-game-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1301-number-of-paths-with-max-score) |
@@ -295,6 +296,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0143-reorder-list](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0143-reorder-list) |
 | [0173-binary-search-tree-iterator](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0173-binary-search-tree-iterator) |
 | [0654-maximum-binary-tree](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0654-maximum-binary-tree) |
+| [0678-valid-parenthesis-string](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -619,6 +621,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0166-fraction-to-recurring-decimal](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0171-excel-sheet-column-number) |
+| [0678-valid-parenthesis-string](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1189-maximum-number-of-balloons) |
@@ -687,6 +690,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0455-assign-cookies](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0605-can-place-flowers) |
+| [0678-valid-parenthesis-string](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0860-lemonade-change) |
 | [1386-cinema-seat-allocation](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1386-cinema-seat-allocation) |
 | [1833-maximum-ice-cream-bars](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1833-maximum-ice-cream-bars) |
@@ -934,5 +938,6 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0020-valid-parentheses](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
