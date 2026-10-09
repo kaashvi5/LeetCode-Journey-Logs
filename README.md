@@ -390,6 +390,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0146-lru-cache](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0166-fraction-to-recurring-decimal) |
+| [0187-repeated-dna-sequences](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0187-repeated-dna-sequences) |
 | [0349-intersection-of-two-arrays](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 | [1096-brace-expansion-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1189-maximum-number-of-balloons) |
@@ -621,6 +622,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0166-fraction-to-recurring-decimal](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0171-excel-sheet-column-number) |
+| [0187-repeated-dna-sequences](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0187-repeated-dna-sequences) |
 | [0678-valid-parenthesis-string](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1143-longest-common-subsequence) |
@@ -669,6 +671,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0089-gray-code](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0137-single-number-ii) |
+| [0187-repeated-dna-sequences](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0187-repeated-dna-sequences) |
 | [0222-count-complete-tree-nodes](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0222-count-complete-tree-nodes) |
 | [1386-cinema-seat-allocation](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -743,6 +746,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0187-repeated-dna-sequences](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0187-repeated-dna-sequences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -940,4 +944,20 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0032-longest-valid-parentheses](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
