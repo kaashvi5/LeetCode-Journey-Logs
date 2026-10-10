@@ -960,4 +960,12 @@ Consistency beats talent when talent doesn’t show up daily.
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0187-repeated-dna-sequences) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
