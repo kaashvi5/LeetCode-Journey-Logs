@@ -133,6 +133,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0018-4sum) |
@@ -595,6 +596,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0008-string-to-integer-atoi](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0022-generate-parentheses) |
@@ -908,6 +910,7 @@ Consistency beats talent when talent doesn’t show up daily.
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0140-word-break-ii) |
 ## Brute-Force Search
