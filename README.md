@@ -422,6 +422,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0023-merge-k-sorted-lists](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0148-sort-list) |
+| [0190-reverse-bits](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0190-reverse-bits) |
 | [0654-maximum-binary-tree](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0654-maximum-binary-tree) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -674,6 +675,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0090-subsets-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0187-repeated-dna-sequences) |
+| [0190-reverse-bits](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0222-count-complete-tree-nodes) |
 | [1386-cinema-seat-allocation](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
