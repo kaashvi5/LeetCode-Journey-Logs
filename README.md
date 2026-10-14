@@ -147,6 +147,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0045-jump-game-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0063-unique-paths-ii) |
 | [0068-text-justification](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0068-text-justification) |
 | [0078-subsets](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0078-subsets) |
@@ -246,6 +247,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0042-trapping-rain-water](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0070-climbing-stairs) |
@@ -420,6 +422,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0190-reverse-bits) |
