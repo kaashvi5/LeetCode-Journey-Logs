@@ -736,6 +736,7 @@ Consistency beats talent when talent doesn’t show up daily.
 ## Database
 |  |
 | ------- |
+| [0196-delete-duplicate-emails](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0196-delete-duplicate-emails) |
 | [0608-tree-node](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0608-tree-node) |
 ## Enumeration
 |  |
