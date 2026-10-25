@@ -183,6 +183,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0717-1-bit-and-2-bit-characters](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0860-lemonade-change](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0860-lemonade-change) |
 | [1140-stone-game-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1301-number-of-paths-with-max-score) |
@@ -349,6 +350,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0543-diameter-of-binary-tree](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0563-binary-tree-tilt) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2685-count-the-number-of-complete-components) |
@@ -528,6 +530,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0542-01-matrix](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0542-01-matrix) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -674,6 +677,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0079-word-search](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0542-01-matrix) |
+| [1254-number-of-closed-islands](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -843,6 +847,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0130-surrounded-regions) |
+| [1254-number-of-closed-islands](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2685-count-the-number-of-complete-components) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
