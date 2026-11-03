@@ -562,6 +562,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0146-lru-cache](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0206-reverse-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -576,6 +577,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0050-powx-n](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1922-count-good-numbers) |
