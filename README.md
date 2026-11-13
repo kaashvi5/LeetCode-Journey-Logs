@@ -172,6 +172,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0149-max-points-on-a-line](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0212-word-search-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0212-word-search-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0486-predict-the-winner) |
@@ -607,6 +608,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0126-word-ladder-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0212-word-search-ii) |
 | [1096-brace-expansion-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
@@ -647,6 +649,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0168-excel-sheet-column-title](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0171-excel-sheet-column-number) |
 | [0187-repeated-dna-sequences](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0187-repeated-dna-sequences) |
+| [0212-word-search-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0212-word-search-ii) |
 | [0678-valid-parenthesis-string](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/1143-longest-common-subsequence) |
@@ -684,6 +687,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0063-unique-paths-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0130-surrounded-regions) |
+| [0212-word-search-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0212-word-search-ii) |
 | [0542-01-matrix](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/0542-01-matrix) |
 | [1254-number-of-closed-islands](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1260-shift-2d-grid) |
@@ -949,6 +953,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [0014-longest-common-prefix](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/0212-word-search-ii) |
 ## Brute-Force Search
 |  |
 | ------- |
