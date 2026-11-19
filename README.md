@@ -284,6 +284,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [1563-stone-game-v](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -469,6 +470,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kaashvi5/LeetCode-Challenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -662,6 +664,7 @@ Consistency beats talent when talent doesn’t show up daily.
 | [2409-count-days-spent-together](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kaashvi5/LeetCode-Journey-Logs/tree/master/3090-maximum-length-substring-with-two-occurrences) |
